@@ -3,4 +3,4 @@ def sum(a, b):
 def rest(a, b):
     return a - b #nueva funcionalidad
 def multi(a, b):
-    return a * b #nueva funcionalidad
+    return a * b #nueva funcionalidad develop
